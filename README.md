@@ -14,3 +14,9 @@ Lecture, practice materials and completed assignments for each week are in ./wee
 - __week03__ Convolutional neural networks
   - Lecture: Computer vision tasks, Convolution and Pooling layers, ConvNet architectures, Data Augmentation
   - Seminar: Training your first ConvNet
+
+- __week04__ Transfer Learning 
+- __week05__ NLP, RNNs
+- __week06__ RNNs
+- __week07__ Seq2seq and Attention
+- __week08__ GANs
